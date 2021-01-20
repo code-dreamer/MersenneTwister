@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MersenneTwister", "MersenneTwister\MersenneTwister.csproj", "{5395E411-18AC-433F-AC47-4837E48B4EF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MersenneTwister.Tests", "MersenneTwister.Tests\MersenneTwister.Tests.csproj", "{518C8CEA-2F8D-4133-B7E4-77AAC7E6A20C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5395E411-18AC-433F-AC47-4837E48B4EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5395E411-18AC-433F-AC47-4837E48B4EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5395E411-18AC-433F-AC47-4837E48B4EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5395E411-18AC-433F-AC47-4837E48B4EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{518C8CEA-2F8D-4133-B7E4-77AAC7E6A20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{518C8CEA-2F8D-4133-B7E4-77AAC7E6A20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{518C8CEA-2F8D-4133-B7E4-77AAC7E6A20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{518C8CEA-2F8D-4133-B7E4-77AAC7E6A20C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8C785FB-74DA-4253-A1E2-3D455A9A7F6C}
+	EndGlobalSection
+EndGlobal
